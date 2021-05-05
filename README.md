@@ -1,5 +1,5 @@
 ## 💬 Introduction
-Hello there, Rafael Sean Putra here. Currently a Informatics Engineering student at Institut Teknologi Bandung (ITB). I like tinkering on some random stuffs (frontend or game stuffs mostly) and doing some review and bug fixing on other people's code. Feel free to contact me if you'd like to collaborate. Feel free to contact me!
+Hello there, Rafael Sean here. Currently a Informatics Engineering student at Institut Teknologi Bandung (ITB). I like tinkering on some random stuffs (frontend or game stuffs mostly) and doing some review and bug fixing on other people's code. Feel free to contact me if you'd like to collaborate. Feel free to contact me!
 
 ## 🧑‍🤝‍🧑 Group Project
 Here is the list of all the projects that I've been working as part of some groups
