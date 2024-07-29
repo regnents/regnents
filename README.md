@@ -1,5 +1,5 @@
 ## 💬 Introduction
-Hello there, Rafael Sean here. I like tinkering on some random stuffs (frontend or game stuffs mostly) and doing some review and bug fixing on other people's code. Feel free to contact me if you'd like to collaborate!
+Hello there, Rafael (or Damian, depending on where you know me) here. I like tinkering on some random stuffs (frontend or game stuffs mostly) and doing some review and bug fixing on other people's code. Feel free to contact me if you'd like to collaborate!
 
 ## 🧑‍🤝‍🧑 Group Project
 Here is the list of all the projects that I've been working as part of some groups
@@ -17,7 +17,7 @@ Here is the list of all the projects that I've been working as part of some grou
 | [BAAA Web Scraper](https://github.com/regnents/Seleksi-2020-Tugas-1) (2020) | Web scraper for the list of aircraft accidents in the Bureau of Aircraft Accidents Archives website ([www.baaa-acro.com](https://baaa-acro.com)) | Python |
 
 ## ☎️ Contact
-Feel free to contact me via [Linkedin](https://www.linkedin.com/in/rafael-sean-putra-430275194/) or [email](mailto:rafaelseanputra@gmail.com)
+Feel free to contact me via [Linkedin](https://www.linkedin.com/in/rafael-sean-putra-430275194/)
 <!--
 ![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=regnents)
 
