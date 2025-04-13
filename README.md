@@ -1,5 +1,5 @@
 ## 💬 Introduction
-Hello there, Damian (or seagazer, depending on where you know me) here. I like tinkering on some random stuffs (frontend or game stuffs mostly) and doing some review and bug fixing on other people's code. Feel free to contact me if you'd like to collaborate!
+Hello there, RSP (or Damian, or seagazer, depending on where you know me) here. I like tinkering on some random stuffs (frontend or game stuffs mostly) and doing some review and bug fixing on other people's code. Feel free to contact me if you'd like to collaborate!
 
 ## 🧑‍🤝‍🧑 Group Project
 Here is the list of all the projects that I've been working as part of some groups
