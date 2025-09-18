@@ -12,10 +12,10 @@ Here is the list of all the projects that I've been working as part of some grou
 ## 💻 Solo Project
 | Project | Description | Technology Used |
 | ----- | --- | --- |
+| [WikID-FOne](https://github.com/regnents/WikID-FOne) (2025) | Web scraper, data storage, and WikiText converter. Used to automate the process of updating data related to Formula One template on Wikipedia Bahasa Indonesia. | Python, MariaDB |
 | [Angry Bird Rip Off](https://github.com/regnents/Agate-Angry-Bird) (2021) | Angry Bird-like Game. Created for the ITB Agate Academy course | Unity | 
 | [MAS-PartO](https://github.com/regnents/MAS-PartO) (2020) | Program that parse a sheet attendance list text file and then automatically filled the attendance list in google sheet. Created for the Human Resource Division of the Himpunan Mahasiswa Informatika (HMIF) ITB's member regeneration. | Python, Google Sheets API |
 | [BAAA Web Scraper](https://github.com/regnents/Seleksi-2020-Tugas-1) (2020) | Web scraper for the list of aircraft accidents in the Bureau of Aircraft Accidents Archives website ([www.baaa-acro.com](https://baaa-acro.com)) | Python |
-| [WikID-FOne](https://github.com/regnents/WikID-FOne) (2025) | Web scraper, data storage, and WikiText converter. Used to automate the process of updating data related to Formula One template on Wikipedia Bahasa Indonesia. | Python, MariaDB |
 
 <!--
 ## ☎️ Contact
